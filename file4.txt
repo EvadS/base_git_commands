@@ -1,1 +1,7 @@
 new line after removed 
+1
+2
+3
+4
+commit with bash 
+changed local user name new line after removed 
