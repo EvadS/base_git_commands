@@ -4,3 +4,4 @@ new line after removed
 3
 4
 commit with bash 
+changed local user name 
